@@ -8,7 +8,7 @@ function Contact() {
         <p>
     Hey Contact with me on this number.
         </p>
-      
+      {logo}
       </header>
     </div>
   );
