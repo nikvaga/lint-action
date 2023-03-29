@@ -17,21 +17,21 @@ module.exports = {
 		'react'
 	],
 	'rules': {
-		'indent': [
-			'error',
-			'tab'
-		],
-		'linebreak-style': [
-			'error',
-			'unix'
-		],
-		'quotes': [
-			'error',
-			'single'
-		],
-		'semi': [
-			'error',
-			'always'
-		]
+		// 'indent': [
+		// 	'error',
+		// 	'tab'
+		// ],
+		// 'linebreak-style': [
+		// 	'error',
+		// 	'unix'
+		// ],
+		// 'quotes': [
+		// 	'error',
+		// 	'single'
+		// ],
+		// 'semi': [
+		// 	'error',
+		// 	'always'
+		// ]
 	}
 };
