@@ -20,4 +20,4 @@ jobs:
         with:
           eslint-args: '--ignore-path=.gitignore --quiet'
           extensions: 'js,jsx,ts,tsx'
-          annotations: true
+          annotations: false
