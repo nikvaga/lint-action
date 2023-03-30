@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Contact from './Contact';
+// import Contact from './Contact';
 import  React from "react";
 
 
@@ -21,7 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <Contact/>
+      {/* <Contact/> */}
     </div>
   );
 }
