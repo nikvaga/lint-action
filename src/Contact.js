@@ -14,7 +14,7 @@ function Contact() {
     <div className="App">
       <header className="App-header">
         <p>
-          Hey Contact with me okay for me on this number...
+          Hey Contact with,, me okay for me on this number...
         </p>
         {logo}
       </header>
